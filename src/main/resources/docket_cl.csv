@@ -1,0 +1,510 @@
+ddid,date_filed,date_terminated,jurisdiction,district,case_name,case_length_days,court_id,allegation,damages,case_type
+0900286:mdpenn,2009-02-12,2022-08-16,FD,,Wallace v. Powell,,mdpenn,,,{440 Civil Rights: Other}
+0700929:dconn,2007-06-13,2016-01-05,FD,,A & R Body Specialty v. Progressive Ins Group Co,,dconn,,,{Other Statutory Actions}
+0504090:edny,2005-08-25,2008-09-11,FD,,"Auberger v. Symbol Technologies, Inc.",,edny,,,{Securities/Commodities}
+1001406:wdpa,2010-10-22,2016-03-03,FD,,"MCLAUGHLIN v. PHELAN HALLINAN & SCHMIEG, LLP.",,wdpa,,,{890 Other Statutory Actions}
+0504228:edny,2005-09-06,2008-09-11,FD,,"Jesseph v. Symbol Technologies, Inc.",,edny,,,{Securities/Commodities}
+0900371:wdpa,2009-03-30,2016-09-30,FD,,OGRIZOVICH v. CUNA MUTUAL GROUP,,wdpa,,,{110 Insurance}
+0504170:edny,2005-08-31,2008-09-11,FD,,"McCowan v. Symbol Technologies, Inc.",,edny,,,{Securities/Commodities}
+1000699:sdny,2010-01-28,2015-02-04,FD,,Davis v. The City of New York,,sdny,,,{443 Civil Rights: Accommodations}
+0704735:edny,2007-11-13,2015-12-03,FD,,Santo v. Laborers International Union of North America,,edny,,,{Labor: Labor/Mgt. Relations}
+0504673:ndill,2005-08-15,2010-09-29,FD,,Williams v. Pritzker,,ndill,,,{443 Civil Rights: Accommodations}
+0900153:dri,2009-03-27,2015-11-25,FD,,Cohen v. Rhode Island Turnpike and Bridge Authority,,dri,,,{Constitutional - State Statute}
+0903339:ndcal,2009-07-21,2019-08-16,FD,,"Brown v. Wal-Mart Store, Inc.",,ndcal,,,{790 Labor Other}
+0200427:ndokla,2002-05-31,2015-12-30,FD,,Fletcher v. USA,,ndokla,,,{441 Civil Rights Voting}
+0908943:cdcal,2009-12-04,2018-11-02,FD,,Michael Garcia v. Los Angeles County Sheriffs Department,,cdcal,,,{446 Civil Rights Americans with Disabilities - Other}
+0703956:edny,2007-09-21,2017-12-14,FD,,"Franco v. Lend America, Inc.",,edny,,,{710 Labor Fair Standards}
+1001609:wdpa,2010-12-02,2020-03-19,FD,,"ROYAL MILE COMPANY, INC. v. UPMC",,wdpa,,,{410 Anti-Trust}
+1001649:cdcal,2010-03-05,2021-03-01,FD,,Mary Amador v. Leroy D. Baca,,cdcal,,,{440 Civil Rights Other}
+0800288:wdpa,2008-10-17,2022-03-31,FD,,FREDERICK v. RANGE RESOURCES,,wdpa,,,{Contract Other}
+0801034:sdny,2008-01-31,,FD,,Floyd v. The City of New York,,sdny,,,{Civil Rights Other}
+1002008:mdfla,2010-09-13,2013-05-16,FD,,"Lakeland Regional Medical Center, Inc. v. Astellas US, LLC",,mdfla,,,{410 Anti-Trust}
+1001256:dmaryland,2010-05-19,2015-01-16,FD,,"Bond v. Marriott International, Inc.",,dmaryland,,,{791 Labor E.R.I.S.A.}
+1001188:cdcal,2010-08-06,2014-06-04,FD,,Debbie Fitzpatrick Seckler v. Kindred Healthcare Inc,,cdcal,,,{790 Labor Other}
+1001172:cdcal,2010-08-05,2013-03-14,FD,,Mairi Nunag Tanedo v. East Baton Rouge Parish School Board,,cdcal,,,{470 Racketeer/Corrupt Organization}
+1001008:cdcal,2010-07-01,2014-04-08,FD,,Razmig Tchoboian v. Fedex Office and Print Services Inc,,cdcal,,,{890 Other Statutory Actions}
+1000944:mdfla,2010-04-21,2014-06-20,FD,,"Espanol v. Avis Budget Group, Inc.",,mdfla,,,{710 Labor Fair Standards}
+1000711:cdcal,2010-06-03,2015-07-27,FD,,Diana Tait v. BSH Home Appliances Corporation,,cdcal,,,{365 Personal Inj. Prod. Liability}
+1000537:cdcal,2010-05-05,2014-07-21,FD,,Buttonwood Tree Value Partners LP v. Jack A Sweeney,,cdcal,,,{850 Securities/Commodities}
+1001569:cdcal,2010-10-14,2013-11-06,FD,,Gina Delarosa v. Boiron USA Inc,,cdcal,,,{370 Other Fraud}
+0700254:dneb,2007-06-29,2015-06-12,FD,,Brehm v. Engle,,dneb,,,{850 Securities/Commodities}
+0800090:dneb,2008-03-03,2012-05-17,FD,,"Cortez v. Nebraska Beef, Inc.",,dneb,,,{710 Labor Fair Standards}
+0801463:cdcal,2008-12-29,2015-05-22,FD,,Reggie Wallace v. Countrywide Home Loans Inc,,cdcal,,,{710 Labor Fair Standards}
+0900445:mdfla,2008-11-19,2014-08-12,FD,,"Britt Green Trucking Inc. v. FEDEX National LTL, INC.",,mdfla,,,{Contract Other}
+0901366:cdcal,2009-11-23,2015-12-21,FD,,Mark D Lima v. Gateway Inc,,cdcal,,,{190 Contract Other}
+1000067:cdcal,2010-01-15,2014-02-03,FD,,Shane Studley v. Alliance Healthcare Services Inc,,cdcal,,,{710 Labor Fair Standards}
+0902661:dmaryland,2009-10-13,2014-01-31,FD,,Boyd v. Coventry Health Care Inc.,,dmaryland,,,{890 Other Statutory Actions}
+1000326:dneb,2010-09-03,2013-03-04,FD,,Barker v. Baird,,dneb,,,{791 Labor E.R.I.S.A.}
+0900081:ednc,2009-05-14,2016-09-26,FD,,Southwood v. The Credit Card Solution,,ednc,,,{Racketeer/Corrupt Organization}
+0800139:edky,2008-07-08,2020-07-27,FD,,Appalachian Land Company v. Equitable Production Company,,edky,,,{196 Contract Franchise}
+0502237:sdny,2005-02-18,2013-12-18,FD,,"Meijer, Inc. v. Ferring B v.",,sdny,,,{410 Anti-Trust}
+0900190:ednc,2009-11-23,2013-08-15,FD,,"ROMERO v. MOUNTAIRE FARMS, INC.",,ednc,,,{710 Labor Fair Standards}
+0900183:ednc,2009-11-10,2016-09-26,FD,,Taylor v. Bettis,,ednc,,,{470 Racketeer/Corrupt Organization}
+1000751:dnm,2010-08-12,2016-07-27,FD,,Casados v. SAFECO Insurance Company of America,,dnm,,,{110 Insurance}
+1001339:sdwva,2010-11-29,2012-09-24,FD,,"Deem v. Ames True Temper, Inc.",,sdwva,,,{791 Labor E.R.I.S.A.}
+1000651:dnm,2010-07-09,2013-05-23,FD,,Montoya v. Espanola Public School District Board of Education,,dnm,,,{Civil Rights Other}
+1000346:ndny,2010-03-24,2014-09-11,FD,,Johnson v. Wave Comm GR LLC,,ndny,,,{710 Labor Fair Standards}
+0901394:dkan,2009-12-11,2015-07-16,FD,,"Arkalon Grazing Association v. Chesapeake Operating, Inc.",,dkan,,,{Contract Other}
+0901307:dor,2009-11-06,2012-10-24,FD,,"Bell v. Affiliated Computer Services, Inc",,dor,,,{790 Labor Other}
+0801330:dkan,2008-10-24,2016-08-10,FD,,"Wallace B. Roderick Irrevocable Trust v. XTO Energy, Inc.",,dkan,,,{Contract Other}
+0701258:dkan,2007-08-31,2013-11-05,FD,,"Schell v. OXY USA, Inc.",,dkan,,,{190 Contract Other}
+0804512:edpa,2008-09-16,2018-04-30,FD,,"BENSON v. BUDGET RENT A CAR SYSTEM, INC.",,edpa,,,{890 Other Statutes Other Statutory Actions}
+1001277:wdokla,2010-11-30,2014-02-25,FD,,Locke v. QuiBids LLC,,wdokla,,,{370 Fraud or Truth-In-Lending}
+1001455:ndcal,2010-04-06,2013-07-22,FD,,"Ferrington v. McAfee, Inc.",,ndcal,,,{380 Personal Property Other}
+1001537:ndala,2010-06-17,2014-12-22,FD,,"Bradley v. Franklin Collection Service, Inc",,ndala,,,{470 Racketeer/Corrupt Organization}
+1000809:cdcal,2010-06-02,2022-04-29,FD,,John Burnell v. Swift Transportation Co Inc,,cdcal,,,{840 Trademark}
+0801570:cdcal,2008-11-05,2017-03-31,FD,,James Cole v. CRST Inc,,cdcal,,,{790 Labor Other}
+1000804:edpa,2010-02-24,2015-08-06,FD,,"HAWK VALLEY, INC. v. TAYLOR",,edpa,,,{890 Other Statutes Other Statutory Actions}
+1000143:dvt,2010-06-14,2013-03-21,FD,,Semon v. Rock of Ages Corporation,,dvt,,,{850 Securities/Commodities}
+1000067:ndwva,2010-06-17,2015-01-30,FD,,"Wheeling Hospital, Inc. v. Ohio Valley Health Services and Education Corporation",,ndwva,,,{791 Labor E.R.I.S.A.}
+1000030:wdokla,2010-01-08,2016-05-12,FD,,McKnight v. Linn Operating Inc,,wdokla,,,{Contract Other}
+0903339:ndcal,2009-07-21,2019-08-16,FD,,"Brown v. Wal-Mart Store, Inc.",,ndcal,,,{Labor Other}
+0901517:cdcal,2009-08-10,2014-11-20,FD,,Heather Gutierrez v. Honda North America Inc,,cdcal,,,{890 Other Statutory Actions}
+0901242:wdokla,2009-11-09,2012-09-04,FD,,Cherry v. Remington Arms Company Inc,,wdokla,,,{190 Contract Other}
+0900323:edky,2009-10-02,2014-10-15,FD,,"Cowden v. Parker & Associates, Inc.",,edky,,,{190 Contract Other}
+0900288:ndcal,2009-01-22,2013-05-15,FD,,"Tietsworth v. Sears, Roebuck and Co.",,ndcal,,,{385 Prop. Damage Prod. Liability}
+0900042:ednc,2009-02-02,2014-05-15,FD,,"Horne v. Smithfield Packing Company, Inc.",,ednc,,,{710 Labor Fair Standards}
+1001025:wdtex,2010-12-20,2013-08-26,FD,,Steward v. Abbott,,wdtex,,,{446 Civil Rights Americans with Disabilities - Other}
+0201327:cdcal,2002-12-05,2011-01-28,FD,,Jerry Beeman & Pharm v. Caremark Inc,,cdcal,,,{890 Other Statutory Actions}
+0801249:cdcal,2008-09-11,2015-01-29,FD,,Marcelo Cunha v. Hansen Natural Corporation,,cdcal,,,{850 Securities/Commodities}
+0600535:wdtex,2006-06-20,2020-01-21,FD,,"Maderazo v. Hospital Corporation of America, Inc.",,wdtex,,,{410 Anti-Trust}
+0503580:ndcal,2005-09-06,2014-10-14,FD,,Nicklos Ciolino v. Hewlett-Packard Company,,ndcal,,,{370 Other Fraud}
+0901980:edmo,2009-12-03,2014-02-27,FD,,"Geismann v. Byram Healthcare Centers, Inc.",,edmo,,,{890 Other Statutory Actions}
+0901823:ndcal,2009-04-27,2013-08-28,FD,,"Moore v. Verizon Communications, Inc.",,ndcal,,,{890 Other Statutory Actions}
+0901335:edmo,2009-08-19,2016-01-12,FD,,"Perrin v. Papa Johns International, Inc.",,edmo,,,{710 Labor Fair Standards}
+0900629:dariz,2009-11-02,2018-10-15,FD,,"Bobbitt v. Milberg, LLP",,dariz,,,{360 Personal Injury Other}
+0900176:ndcal,2009-01-14,2014-12-08,FD,,Valdez v. City of San Jose,,ndcal,,,{Civil Rights Other}
+0900094:ndmiss,2009-08-31,2014-02-14,FD,,"Haley v. Merial, Limited",,ndmiss,,,{Racketeer/Corrupt Organization}
+0900064:ndind,2009-09-18,2011-12-01,FD,,Lafayette Life Insurance Company The v. Menasha City of Wisconsin,,ndind,,,{850 Securities/Commodities}
+0900056:mdga,2009-05-22,2014-04-18,FD,,Barkwell v. Sprint Communications Company L.P.,,mdga,,,{190 Contract Other}
+0900041:ednc,2009-03-19,2014-05-15,FD,,"Harris v. Smithfield Packing Company, Inc.",,ednc,,,{710 Labor Fair Standards}
+0900031:edark,2009-01-16,2015-03-09,FD,,Day v. Celadon Trucking Services Inc,,edark,,,{790 Labor Other}
+0802705:ndcal,2008-05-29,2014-06-24,FD,,"Stoody-Broser v. Bank of America, N.A.",,ndcal,,,{890 Other Statutory Actions}
+0800342:edark,2008-04-18,2012-11-09,FD,,Helmert v. Butterball LLC,,edark,,,{Labor Fair Standards}
+1000766:ndokla,2010-12-03,2014-09-29,FD,,Short v. USAA Casualty Insurance Company,,ndokla,,,{110 Insurance}
+1000198:sdiowa,2010-04-30,2014-12-16,FD,,Carpio v. Principal Global Investors LLC,,sdiowa,,,{791 Labor E.R.I.S.A.}
+1000100:ndcal,2010-01-08,2017-09-29,FD,,Jorge R. Quezada v. Con-Way Freight,,ndcal,,,{442 Civil Rights Jobs}
+1000086:edmo,2010-01-15,2015-01-05,FD,,"Henke v. Wiltel Communications, L.L.C.",,edmo,,,{240 Torts to Land}
+0905094:ndcal,2009-10-23,2013-12-05,FD,,"Curry v. Hansen Medical, Inc.",,ndcal,,,{850 Securities/Commodities}
+0903670:ndcal,2009-08-11,2015-01-15,FD,,Jorge Quezada v. Con-Way Inc.,,ndcal,,,{442 Civil Rights Jobs}
+0903495:ndcal,2009-07-30,2021-10-13,FD,,"Juarez v. Jani-King of California, Inc.",,ndcal,,,{196 Franchise}
+0902306:ndcal,2009-05-26,2013-08-07,FD,,Dominguez v. Schwarzenegger,,ndcal,,,{890 Other Statutory Actions}
+0902056:sdtex,2009-06-30,2018-10-11,FD,,Torres v. SGE Management LLC,,sdtex,,,{470 Racketeer/Corrupt Organization}
+0200427:ndokla,2002-05-31,2015-12-30,FD,,Fletcher v. USA,,ndokla,,,{Civil Rights Voting}
+0101351:ndcal,2001-04-05,,FD,,Plata v. Newsom,,ndcal,,,{440 Civil Rights Other}
+0700137:sdind,2007-10-15,2014-07-02,FD,,"LEATHERMON v. GRANDVIEW MEMORIAL GARDENS, INC.",,sdind,,,{190 Contract Other}
+0800160:ndohio,2008-01-18,2020-09-17,FD,,Ohio Public Employees Retirement System v. Federal Home Loan Mortgage Corp.,,ndohio,,,{850 Securities/Commodities}
+1001025:edark,2010-07-22,2012-11-09,FD,,Garner v. Butterball LLC,,edark,,,{710 Labor Fair Standards}
+1001089:ndcal,2010-03-15,2014-05-28,FD,,"Tijero v. Aaron Brothers, Inc.",,ndcal,,,{790 Labor Other}
+1001811:ndcal,2010-04-27,2018-06-08,FD,,"In Re Sony PS3 ""Other OS"" Litigation",,ndcal,,,{890 Other Statutory Actions}
+1002102:edmo,2010-11-05,2013-06-13,FD,,Harvey v. General Electric Company,,edmo,,,{950 Constitutional - State Statute}
+1000426:wdwis,2010-07-30,2015-01-07,FD,,"Johnson, Phyllis v. Meriter Health Services Employee Retirement Plan",,wdwis,,,{791 Labor E.R.I.S.A.}
+0102361:dconn,2001-12-19,2019-08-16,FD,,Amara v. CIGNA Corp,,dconn,,,{890 Other Statutory Actions}
+0121151:ndcal,2001-12-11,2014-04-01,FD,,Elena Del Campo v. American Corrective Counseling,,ndcal,,,{480 Consumer Credit}
+0201152:ndtex,2002-06-03,2018-06-04,FD,,Erica P John Fund Inc v. Halliburton Company,,ndtex,,,{850 Other Statutes Securities/Commodities/Exchange}
+0300221:dconn,2003-02-03,2015-10-21,FD,,State Emp Coalition v. Rowland,,dconn,,,{440 Civil Rights Other}
+0400630:mdtenn,2004-07-16,2018-03-27,FD,,Grant v. Metro Govt of Nash,,mdtenn,,,{442 Civil Rights Jobs}
+0500016:wdky,2005-01-10,2014-04-07,FD,,Corder v. Ford Motor Company,,wdky,,,{Contract Other}
+0502125:sdcal,2005-11-14,2017-12-20,FD,,"Ruiz v. XPO Last Mile, Inc.",,sdcal,,,{710 Labor Fair Standards}
+0507393:ndohio,2005-10-12,2016-11-30,FD,,Plumbers & Pipefitters National Pension Fund v. Burns,,ndohio,,,{850 Securities/Commodities}
+0600701:sdill,2006-09-11,2015-07-20,FD,,Abbott v. Lockheed Martin Corporation,,sdill,,,{791 Labor E.R.I.S.A.}
+0600703:sdill,2006-09-11,2014-01-31,FD,,Beesley v. International Paper Company,,sdill,,,{Labor E.R.I.S.A.}
+0600743:sdill,2006-09-25,2016-03-31,FD,,"Spano v. Boeing Company, The",,sdill,,,{791 Labor E.R.I.S.A.}
+0602671:sdcal,2006-12-06,2014-09-30,FD,,"Antoninetti v. Chipotle Mexican Grill, Inc.",,sdcal,,,{443 Civil Rights Accommodations}
+0700130:wdky,2007-03-09,2019-03-25,FD,,"Durand v. The Hanover Insurance Group, Inc.",,wdky,,,{791 Labor E.R.I.S.A.}
+0700201:ndcal,2007-01-10,2013-07-18,FD,,Pokorny v. Quixtar Inc,,ndcal,,,{470 Racketeer/Corrupt Organization}
+0700218:wdky,2007-04-19,2014-03-31,FD,,"Jones-Turner v. Yellow Enterprise Systems, LLC",,wdky,,,{710 Labor Fair Standards}
+0702174:sdcal,2007-11-14,2012-11-05,FD,,Shames v. Hertz Corporation,,sdcal,,,{410 Anti-Trust}
+1000142:sdiowa,2010-11-12,2013-11-12,FD,,"Peters v. Kraft Foods Global, Inc.",,sdiowa,,,{710 Labor Fair Standards}
+1000312:wdpa,2010-12-15,2013-09-19,FD,,THOMPSON v. ALTOONA HOUSING AUTHORITY,,wdpa,,,{Civil Rights Accommodations}
+1000326:dnev,2010-06-03,2015-06-04,FD,,"Lee v. Enterprise Leasing Company-West, LLC",,dnev,,,{370 Fraud}
+1000371:ndohio,2010-02-18,2015-11-05,FD,,Hawaii Ironworkers Annuity Trust Fund v. Cole,,ndohio,,,{850 Securities/Commodities}
+1000395:mdla,2010-06-10,2017-12-20,FD,,"Bach v. Amedisys, Inc.",,mdla,,,{850 Securities/Commodities}
+1000514:edva,2010-07-26,2014-06-04,FD,,"Soutter v. Trans Union, LLC.",,edva,,,{480 Consumer Credit}
+1000600:sdill,2010-08-10,2015-10-30,FD,,"Stull v. YTB International, Inc.",,sdill,,,{370 Fraud or Truth-In-Lending}
+1000620:mdtenn,2010-06-24,2014-12-05,FD,,McBride v. HTI Memorial Hospital Corporation,,mdtenn,,,{710 Labor Fair Standards}
+1000622:sdtex,2010-12-22,2013-12-04,FD,,"Cannon v. BP PRODUCTS NORTH AMERICA, INC.",,sdtex,,,{Torts to Land}
+1000648:dnev,2010-10-15,2014-08-12,FD,,"Elliot v. China Green Agricultures, Inc.",,dnev,,,{850 Securities/Commodities}
+1000680:mdala,2010-08-11,2013-04-23,FD,,"Hornsby v. Macon County Greyhound Park, Inc.",,mdala,,,{791 Labor E.R.I.S.A.}
+1000835:sdill,2010-10-22,2013-03-18,FD,,"Keeling v. Esurance Insurance Services, Inc.",,sdill,,,{890 Other Statutory Actions}
+1000874:mdtenn,2010-09-20,2015-05-08,FD,,"Christy v. Hopfed Bancorp, Inc.",,mdtenn,,,{430 Banks and Banking}
+1000895:mdala,2010-10-22,2014-07-22,FD,,"Weekes-Walker v. Macon County Greyhound Park, Inc.",,mdala,,,{790 Labor Other}
+1000920:sdcal,2010-04-29,2013-11-05,FD,,"Vess v. Bank of America, N.A.",,sdcal,,,{190 Contract Other}
+1000940:sdcal,2010-04-30,2017-03-31,FD,,"Low v. Trump University, LLC",,sdcal,,,{370 Other Fraud}
+1000967:dconn,2010-06-18,2014-12-02,FD,,"Poptech, L.P. v. Stewardship Investment Advisors, LLC",,dconn,,,{850 Securities/Commodities}
+1000968:mdtenn,2010-10-14,2015-09-29,FD,,"Harter v. Avery Scott, L.L.C.",,mdtenn,,,{430 Banks and Banking}
+1001139:ndcal,2010-03-17,2013-03-28,FD,,"Ries v. Hornell Brewing Company, inc.",,ndcal,,,{890 Other Statutory Actions}
+1001284:sdcal,2010-06-16,2015-02-05,FD,,Connor v. JPMorgan Chase Bank,,sdcal,,,{Other Statutory Actions}
+1001610:ndcal,2010-04-15,2014-05-08,FD,,In re Apple iPhone/iPod Warranty Litigation,,ndcal,,,{190 Contract Other}
+0901035:mdtenn,2009-10-28,2016-11-01,FD,,Bearden v. Honeywell International Inc.,,mdtenn,,,{365 Personal Inj. Prod. Liability}
+0901089:dconn,2009-07-09,2014-08-28,FD,,Ellis v. General Revenue Corp,,dconn,,,{480 Consumer Credit}
+0901285:dconn,2009-08-18,2017-10-31,FD,,Morrison v. Ocean State Job Lot Inc,,dconn,,,{710 Labor Fair Standards}
+0901335:dsc,2009-05-21,2013-10-21,FD,,Boland v. Consolidated Multiple Listings Service Inc,,dsc,,,{410 Anti-Trust}
+0901668:sdcal,2009-07-31,2013-06-06,FD,,"Blount v. ADP, Inc.",,sdcal,,,{710 Labor Fair Standards}
+0901786:sdcal,2009-08-17,2013-09-16,FD,,Dennis v. Kellogg Company,,sdcal,,,{Other Statutory Actions}
+0902051:sdcal,2009-09-18,2020-01-14,FD,,"Kilby v. CVS Pharmacy, Inc.",,sdcal,,,{790 Labor Other}
+0902422:sdcal,2009-10-29,2013-02-13,FD,,"Hines v. KFC U.S. Properties, Inc.",,sdcal,,,{790 Labor Other}
+0902473:sdcal,2009-11-04,2015-02-10,FD,,Stiller v. Costco,,sdcal,,,{790 Labor Other}
+0902879:ndohio,2009-12-11,2013-09-24,FD,,"Creely v. HCR ManorCare, Inc.",,ndohio,,,{710 Labor Fair Standards}
+0903740:dnj,2009-07-28,2016-04-18,FD,,"KATZ v. LIVE NATION, INC.",,dnj,,,{190 Contract Other}
+0903770:ndcal,2009-08-17,2015-02-23,FD,,"DuFour v. Be, LLC",,ndcal,,,{480 Consumer Credit}
+0904779:ndcal,2009-10-06,2018-06-26,FD,,Haskell v. Brown,,ndcal,,,{950 Constitutional - State Statute}
+0905473:ndcal,2009-11-18,2013-07-05,FD,,In Re Sunpower Securities Litigation (Plichta v. Sunpower Corporation),,ndcal,,,{850 Securities/Commodities}
+0906323:dnj,2009-12-14,2018-01-10,FD,,SHEVLIN v. THE PHOENIX LIFE INSURANCE COMPANY,,dnj,,,{110 Insurance}
+1000006:dconn,2010-01-05,2015-11-04,FD,,Lipman v. Terex Corp,,dconn,,,{791 Labor E.R.I.S.A.}
+1000107:edva,2010-02-17,2016-04-05,FD,,"Soutter v. Equifax Information Services, LLC",,edva,,,{480 Consumer Credit}
+1001546:dconn,2010-09-29,2020-03-30,FD,,"Kaye v. Merck & Co., Inc.",,dconn,,,{890 Other Statutory Actions}
+1001622:sdcal,2010-08-04,2013-01-08,FD,,"Leonard Castillo v. Cox Communications, Inc.",,sdcal,,,{790 Labor Other}
+1001667:ndcal,2010-04-19,2013-10-11,FD,,"Reyes v. Wells Fargo Bank, N.A.",,ndcal,,,{190 Contract Other}
+1001777:sdcal,2010-08-25,2013-02-15,FD,,"Sarabi v. Weltman, Weinberg & Reis Co., L.P.A.",,sdcal,,,{890 Other Statutory Actions}
+1001877:dpr,2010-09-12,2018-08-12,FD,,Baez v. Banco Bilbao Vizcaya,,dpr,,,{Other Statutory Actions}
+1001888:ndcal,2010-04-30,2015-02-19,FD,,Gomez v. Service Employees International Union Local 87,,ndcal,,,{443 Civil Rights Accommodations}
+1002061:sdcal,2010-10-04,2016-05-05,FD,,Lemus v. Dennys Inc,,sdcal,,,{710 Labor Fair Standards}
+1002134:sdcal,2010-10-13,2013-06-12,FD,,Beck-Ellman v. KAZ USA Incorporated,,sdcal,,,{385 Prop. Damage Prod. Liability}
+0800318:sdcal,2008-02-19,2017-06-16,FD,,"Dilts v. Penske Logistics, LLC.",,sdcal,,,{790 Labor Other}
+0800408:sdohio,2008-11-10,2015-12-23,FD,,Kline v. Mortgage Electronic Security Systems,,sdohio,,,{480 Consumer Credit}
+0800565:sdill,2008-08-08,2015-10-30,FD,,"Morrison v. YTB International, Inc.",,sdill,,,{Consumer Credit}
+0800802:dconn,2008-05-27,2013-12-16,FD,,Jones v. Midland Funding LLC,,dconn,,,{480 Consumer Credit}
+0801072:sdcal,2008-06-17,2015-03-06,FD,,"Dalton v. Lee Publications, Inc.",,sdcal,,,{190 Contract Other}
+0900531:sdill,2009-07-17,2010-09-08,FD,,"Locklear Electric, Inc. v. Lay",,sdill,,,{890 Other Statutory Actions}
+0900291:dnj,2009-01-22,2020-12-14,FD,,"CHASSEN v. FIDELITY NATIONAL FINANCIAL, INC.",,dnj,,,{Contract Other}
+0900690:dconn,2009-04-28,2018-07-10,FD,,Mahon v. Chicago Title Ins Co,,dconn,,,{110 Insurance}
+0900086:dconn,2009-01-20,2013-09-23,FD,,Wise v. Cavalry Portfolio Svcs LLC,,dconn,,,{480 Consumer Credit}
+0806992:ndill,2008-12-08,2013-06-19,FD,,Stonecrafters Inc v. Foxfire Printing and Packaging Inc,,ndill,,,{890 Other Statutory Actions}
+0900765:ndtex,2009-04-27,2014-10-02,FD,,Southern Avenue Partners LP v. The Perot Family Trust,,ndtex,,,{370 Torts/Pers Prop Other Fraud}
+0900775:sdcal,2009-04-15,2018-05-07,FD,,Diaz v. First American Home Buyers Protection Corporation,,sdcal,,,{190 Contract Other}
+0900780:sdcal,2009-04-15,2018-08-20,FD,,"Koby v. ARS National Services, Inc.",,sdcal,,,{890 Other Statutory Actions}
+0801975:ndtex,2008-11-04,2013-07-10,FD,,Kleiner v. Southwest Airlines Co,,ndtex,,,{190 Contract Other Contract}
+0900286:mdpenn,2009-02-12,2022-08-16,FD,,Wallace v. Powell,,mdpenn,,,{Civil Rights Other}
+0800033:sdcal,2008-01-04,2015-06-25,FD,,"Soto v. Diakon Logistics (Delaware), Inc.",,sdcal,,,{790 Labor Other}
+0800177:ndcal,2008-01-10,2016-12-16,FD,,Brady v. Deloitte & Touche LLP,,ndcal,,,{790 Labor Other}
+0800248:sdcal,2008-02-08,2012-09-28,FD,,"Adams v. AllianceOne Receivables Management, Inc.",,sdcal,,,{890 Other Statutory Actions}
+1001341:edny,2010-03-24,2015-06-09,FD,,DeSilva v. North Shore-Long Island Jewish Health System,,edny,,,{710 Labor Fair Standards}
+0900169:sdga,2009-11-03,2017-11-14,FD,,"Fitzer v. American Institute of Baking, Inc.",,sdga,,,{360 P.I. Other}
+0900246:edwash,2009-08-07,2013-08-07,FD,,Carlsen v. Global Client Solutions LLC,,edwash,,,{370 Other Fraud}
+0900251:edwash,2009-08-12,2019-01-03,FD,,"Gray v. Suttell & Associates, P.S.",,edwash,,,{480 Consumer Credit}
+1000364:wdla,2010-03-04,2013-01-22,FD,,Green v. Plantation of Louisiana L L C,,wdla,,,{710 Labor Fair Standards}
+1000618:wdwash,2010-04-12,2014-12-16,FD,,Lee v. ITT Corporation,,wdwash,,,{190 Contract Other}
+1000774:edpa,2010-02-22,2017-10-06,FD,,"CENTER CITY PERIODONTISTS, P.C. v. DENTSPLY INTERNATIONAL, INC.",,edpa,,,{195 Contract Product Liability}
+1000826:sdohio,2010-09-15,2014-12-24,FD,,"Adams v. Anheuser-Busch Companies, Inc.",,sdohio,,,{791 Labor E.R.I.S.A.}
+1000899:dariz,2010-04-27,2020-01-22,FD,,Doe v. Swift Transportation Company Incorporated,,dariz,,,{710 Labor Fair Standards}
+1000948:sdohio,2010-10-20,2015-09-30,FD,,"Neff v. U.S. Xpress, Inc.",,sdohio,,,{710 Labor Fair Standards}
+1001028:cdcal,2010-02-11,2014-01-30,FD,,Evangeline Red v. Kraft Foods Inc.,,cdcal,,,{890 Other Statutory Actions}
+1001139:wdwash,2010-07-14,2013-11-08,FD,,"Agne v. Rain City Pizza,LLC",,wdwash,,,{890 Other Statutory Actions}
+1001190:dnj,2010-03-05,2012-03-13,FD,,EOFF v. SPRINT NEXTEL CORPORATION,,dnj,,,{190 Contract Other}
+1001273:dnj,2010-03-10,2013-02-06,FD,,"TRAPP v. PHOENIX HEALTH CARE, INC.",,dnj,,,{710 Labor Fair Standards}
+1001302:edpa,2010-03-25,2018-04-30,FD,,"HUMPHREYS v. BUDGET RENT A CAR SYSTEM, INC.",,edpa,,,{890 Other Statutes Other Statutory Actions}
+1001553:wdpa,2010-11-22,2017-06-13,FD,,POLLOCK v. ENERGY CORPORATION OF AMERICA,,wdpa,,,{190 Contract Other}
+1001609:wdpa,2010-12-02,2020-03-19,FD,,"ROYAL MILE COMPANY, INC. v. UPMC",,wdpa,,,{Anti-Trust}
+1001649:cdcal,2010-03-05,2021-03-01,FD,,Mary Amador v. Leroy D. Baca,,cdcal,,,{Civil Rights Other}
+1002007:cdcal,2010-03-19,2017-05-12,FD,,Jose Gomez v. Campbell-Ewald Company,,cdcal,,,{890 Other Statutory Actions}
+1002052:cdill,2010-03-05,2013-01-23,FD,,Vought v. Bank of America N A,,cdill,,,{190 Contract Other}
+1002190:dnj,2010-04-30,2016-09-12,FD,,MARCHESE v. CABLEVISION SYSTEMS CORPORATION,,dnj,,,{410 Anti-Trust}
+0911912:edmich,2009-05-19,2016-12-06,FD,,Robinson v. General Electric Company,,edmich,,,{385 Prop. Damage Prod. Liability}
+1000345:edpa,2010-01-26,2016-11-21,FD,,REYES v. ZION FIRST NATIONAL BANK,,edpa,,,{470 Other Statutes Racketeer/Corrupt Organization}
+1000331:edwis,2010-04-19,2013-07-19,FD,,Sawyer v. Atlas Heating and Sheet Metal Works Inc,,edwis,,,{380 Personal Property Other}
+1000270:sdohio,2010-03-29,2014-06-05,FD,,Wade v. Werner Trucking Company,,sdohio,,,{710 Labor Fair Standards}
+1000192:cdcal,2010-01-12,2011-05-23,FD,,Casey A. v. Darline P. Robles,,cdcal,,,{440 Civil Rights Other}
+1000103:dnd,2010-10-28,2021-07-12,FD,,"Murray v. Altendorf Transport, Inc",,dnd,,,{Labor Fair Standards}
+1000018:edwash,2010-01-20,2013-07-11,FD,,Laue v. Sterling Financial Corporation,,edwash,,,{791 Labor E.R.I.S.A.}
+1000015:ednc,2010-04-30,2013-08-08,FD,,Serrano Diaz v. Barclift,,ednc,,,{710 Labor Fair Standards}
+0913201:edmich,2009-08-14,2013-12-27,FD,,"Birmingham Employees Retirement System, City of v. Comerica Incorporated",,edmich,,,{190 Contract Other}
+0912229:edmich,2009-06-09,2014-04-11,FD,,Pfeil v. State Street Bank and Trust Company,,edmich,,,{791 Labor E.R.I.S.A.}
+0909554:cdcal,2009-12-30,2017-12-04,FD,,"Muhammed Abdullah v. U.S. Security Associates, Inc.",,cdcal,,,{442 Civil Rights Jobs}
+0908394:cdcal,2009-11-16,2016-05-03,FD,,Amanda Sateriale v. R J Reynolds Tobacco Co,,cdcal,,,{190 Contract Other}
+0908157:cdcal,2009-11-06,2011-06-06,FD,,Monica Gould v. Motel 6 Inc.,,cdcal,,,{790 Labor Other}
+0907560:cdcal,2009-10-16,2014-10-06,FD,,Peter Wilson v. Gateway Inc,,cdcal,,,{190 Contract Other}
+0907335:cdcal,2009-10-08,2016-10-17,FD,,Alfredo M. Lopez v. American Express Bank FSB,,cdcal,,,{480 Consumer Credit}
+0907332:edla,2009-11-13,2013-08-09,FD,,Arthur v. Standard Fire Insurance Company,,edla,,,{110 Insurance}
+0906151:edpa,2009-12-28,2017-07-07,FD,,"ELLIOTT v. TOYS ""R"" US, INC.",,edpa,,,{410 Other Statutes Anti-Trust}
+0905603:edny,2009-12-22,2015-03-20,FD,,"Goodman v. Assetmark, Inc.",,edny,,,{850 Securities/Commodities}
+0905582:dnj,2009-11-02,2016-08-26,FD,,"LUPPINO v. MERCEDES-BENZ USA, LLC",,dnj,,,{190 Contract Other}
+0905515:edpa,2009-11-19,2020-02-06,FD,,BOYLE v. PROGRESSIVE SPECIALTY INSURANCE COMPANY,,edpa,,,{890 Other Statutes Other Statutory Actions}
+0905512:edpa,2009-11-19,2014-10-01,FD,,BUCARI v. ALLSTATE PROPERTY AND CASUALTY INSURANCE COMPANY,,edpa,,,{890 Other Statutes Other Statutory Actions}
+0905511:edpa,2009-11-19,2014-10-01,FD,,MECADON v. ALLSTATE INDEMNITY COMPANY,,edpa,,,{890 Other Statutes Other Statutory Actions}
+0905438:cdcal,2009-07-24,2014-02-04,FD,,"Joseph A. Monaco v. The Bear Stearns Companies, Inc.",,cdcal,,,{371 Truth in Lending}
+0905276:edpa,2009-11-12,2015-09-10,FD,,WILLISCH v. NATIONWIDE INSURANCE COMPANY OF AMERICA,,edpa,,,{890 Other Statutes Other Statutory Actions}
+0904957:cdcal,2009-07-10,2012-11-19,FD,,"Lonnie Smith v. CEVA Logistics U.S., Inc.",,cdcal,,,{890 Other Statutory Actions}
+0904778:cdcal,2009-07-02,2014-06-04,FD,,"Flordeliza Escano v. Kindred Healthcare Operating Company, Inc.",,cdcal,,,{790 Labor Other}
+0904730:edpa,2009-10-14,2014-08-04,FD,,WESTERN PA. ELECTRICAL EMPLOYEES PENSION FUND V. D. ALTER,,edpa,,,{850 Other Statutes Securities/Commodities}
+0904266:cdcal,2009-06-15,2016-09-30,FD,,"Jeffrey Lee Allen v. Labor Ready Southwest, Inc.",,cdcal,,,{790 Labor Other}
+0901009:ndala,2009-05-22,2013-04-22,FD,,"Dover v. Old Republic Home Protection Company, Inc.",,ndala,,,{290 Real Property Other}
+0900842:edwis,2009-09-02,2013-06-04,FD,,Vang v. Kohler Co,,edwis,,,{710 Labor Fair Standards}
+0900842:edpa,2009-02-26,2015-08-14,FD,,LEVINE v. FIRST AMERICAN TITLE INSURANCE COMPANY,,edpa,,,{470 Other Statutes Racketeer/Corrupt Organization}
+0900841:edpa,2009-02-26,2016-12-22,FD,,SCHWARTZ v. LAWYERS TITLE INSURANCE COMPANY,,edpa,,,{470 Other Statutes Racketeer/Corrupt Organization}
+0900792:mdala,2009-08-20,2012-10-12,FD,,"In re COLONIAL BANCGROUP, INC. ERISA LITIGATION (LEAD CASE)",,mdala,,,{791 Labor E.R.I.S.A.}
+0900728:mdala,2009-07-31,2013-06-14,FD,,"Creel v. Tuesday Morning, Inc.",,mdala,,,{710 Labor Fair Standards}
+0900287:cdcal,2009-01-14,2014-12-05,FD,,Communities Actively Living Independent and Free v. City of Los Angeles,,cdcal,,,{445 Civil Rights Americans with Disabilities - Employment}
+0901546:sdwva,2009-12-28,2015-09-09,FD,,Dewhurst v. Century Aluminum Company,,sdwva,,,{791 Labor E.R.I.S.A.}
+0901479:dariz,2009-07-17,2013-09-06,FD,,"de La Soujeole v. Matrixx Initiatives, Inc.",,dariz,,,{850 Other Statutes Securities/Commodities}
+0901428:dariz,2009-07-08,2011-06-10,FD,,"CLN Properties, Inc. v. Republic Services, Inc.",,dariz,,,{190 Contract Other}
+0901370:wdwash,2009-09-28,2014-04-10,FD,,Tavenner v. Talon Group The,,wdwash,,,{190 Contract Other}
+0901173:sdohio,2009-12-30,2013-09-26,FD,,Armond Kelley v. Stanley Steemer International Inc,,sdohio,,,{710 Labor Fair Standards}
+0901567:wdpa,2009-11-24,2013-09-27,FD,,WRIGHT v. OWENS CORNING,,wdpa,,,{385 Prop. Damage Prod. Liability}
+0901572:wdpa,2009-11-30,2018-05-03,FD,,"COMMUNITY VOCATIONAL SCHOOLS OF PITTSBURGH, INC. v. MILDON BUS LINES INC.",,wdpa,,,{890 Other Statutory Actions}
+0902122:dkan,2009-03-10,2015-08-12,FD,,Bennett v. Sprint Nextel Corporation,,dkan,,,{850 Securities/Commodities}
+0902254:edny,2009-05-28,2017-06-15,FD,,Harper v. Government Employees Insurance Company,,edny,,,{710 Labor Fair Standards}
+0902443:dkan,2009-08-21,2018-07-02,FD,,"Blair v. Transam Trucking, Inc.",,dkan,,,{710 Labor Fair Standards}
+0903216:cdcal,2009-05-07,2011-11-30,FD,,"Ramon Gomez v. Bidz. Com, Inc.",,cdcal,,,{850 Securities/Commodities}
+0903568:cdcal,2009-05-19,2013-12-23,FD,,"Rande Bronster v. AOL, LLC",,cdcal,,,{370 Other Fraud}
+0605036:cdcal,2006-08-11,2012-12-04,FD,,Sonam Bakshi v. Henry Samueli,,cdcal,,,{850 Securities/Commodities}
+0604359:dnj,2006-09-15,2017-12-12,FD,,"BOUDER v. PRUDENTIAL FINANCIAL, INC.",,dnj,,,{710 Labor Fair Standards}
+0602422:edpa,2006-06-08,2015-11-09,FD,,MARKOCKI v. OLD REPUBLIC NATIONAL TITLE INSURANCE COMPANY,,edpa,,,{Other Statutes Other Statutory Actions}
+0602163:dnj,2006-05-11,2015-05-04,FD,,DEMMICK v. CELLCO PARTNERSHIP,,dnj,,,{890 Other Statutory Actions}
+0601833:edpa,2006-05-01,2020-04-21,FD,,"VISTA HEALTHPLAN, INC. v. CEPHALON, INC.",,edpa,,,{410 Other Statutes Anti-Trust}
+0601797:edpa,2006-04-27,2018-12-04,FD,,"KING DRUG COMPANY OF FLORENCE, INC v. CEPHALON, INC.",,edpa,,,{410 Other Statutes Anti-Trust}
+0600089:wdwash,2006-01-19,2011-02-22,FD,,Wanechek Mink Ranch v. Alaska Brokerage International Inc,,wdwash,,,{Anti-Trust}
+0600026:edky,2006-02-02,2019-06-27,FD,,"Indiana State District Council of Laborers and Hod Carriers Pension and Welfare Fund v. Omnicare, Inc.",,edky,,,{850 Securities/Commodities}
+0702046:cdill,2007-02-26,2013-10-15,FD,,Nolte v. CIGNA Corporation,,cdill,,,{791 Labor E.R.I.S.A.}
+0701928:ndala,2007-10-22,2010-05-27,FD,,Faught v. American Home Shield Corporation,,ndala,,,{110 Insurance}
+0701459:cdcal,2007-03-05,2013-08-12,FD,,Robert Reese v. Ticketmaster,,cdcal,,,{370 Other Fraud}
+0701292:dariz,2007-07-02,2012-08-14,FD,,Doe v. Arizona Hospital and Healthcare Association,,dariz,,,{410 Other Statutes Anti-Trust}
+0701078:edpa,2007-03-19,2014-07-14,FD,,"UNIVERSAL DELAWARE, INC. v. CERIDIAN CORPORATION",,edpa,,,{410 Other Statutes Anti-Trust}
+0700380:cdcal,2007-01-16,2018-02-15,FD,,Michael Nozzi v. Housing Authority of the City of Los Angeles,,cdcal,,,{440 Civil Rights Other}
+0700087:edky,2007-05-16,2017-07-05,FD,,Knight v. Stewart Title Guaranty Company,,edky,,,{Other Fraud}
+0606649:cdcal,2006-10-18,2011-06-10,FD,,Wineesa Cole v. Asurion Corporation,,cdcal,,,{370 Other Fraud}
+0606213:cdcal,2006-09-28,2017-10-24,FD,,Shirley Waldbuesser v. Northrop Grumman Corporation,,cdcal,,,{791 Labor E.R.I.S.A.}
+0604804:cdcal,2006-08-01,2014-10-29,FD,,Gary Davis v. Chase Bank USA NA,,cdcal,,,{890 Other Statutory Actions}
+0200591:dariz,2002-04-04,2015-04-24,FD,,Parra v. Bashas Inc,,dariz,,,{Civil Rights Jobs}
+0900025:dmont,2009-03-31,2017-02-10,FD,,"Budd v. Caring for Montanans, Inc.",,dmont,,,{Insurance}
+0807844:cdcal,2008-11-26,2014-07-02,FD,,Robert G. Perrin v. Southwest Water Company,,cdcal,,,{850 Securities/Commodities}
+0807509:cdcal,2008-11-13,2013-08-16,FD,,Craig Johnson v. Ticketmaster Corp.,,cdcal,,,{370 Fraud or Truth-In-Lending}
+0806160:dnj,2008-12-15,2018-06-29,FD,,"GLEN RIDGE SURGICENTER, LLC v. HORIZON BLUE CROSS BLUE SHIELD OF NEW JERSEY, INC.",,dnj,,,{791 Labor E.R.I.S.A.}
+0805266:cdcal,2008-08-11,2014-11-12,FD,,"Barrette Jasper v. C.R. England, Inc.",,cdcal,,,{Labor Other}
+0804716:dnj,2008-09-22,2015-04-27,FD,,GRAY v. BAYER CORPORATION,,dnj,,,{360 P.I. Other}
+0803610:dnj,2008-07-16,2015-05-19,FD,,"LANDSMAN & FUNK, P.C. v. SKINDER-STRAUSS ASSOCIATES",,dnj,,,{190 Contract Other}
+0803301:edpa,2008-07-14,2013-06-20,FD,,IBEW - NECA LOCAL 505 HEALTH & WELFARE PLAN v. SMITHKLINE BEECHAM CORPORATION,,edpa,,,{410 Other Statutes Anti-Trust}
+0803017:edcal,2008-12-12,2021-09-30,FD,,"Four in One Company, Inc. v. SK Foods, L.P.",,edcal,,,{410 Anti-Trust}
+0802433:edpa,2008-05-23,2018-01-11,FD,,PLUMBERS AND PIPEFITTERS LOCAL 572 HEALTH AND WELFARE FUND v. BIOVAIL CORPORATION,,edpa,,,{410 Other Statutes Anti-Trust}
+0802431:edpa,2008-05-23,2018-01-11,FD,,"MEIJER, INC. v. BIOVAIL CORPORATION",,edpa,,,{410 Other Statutes Anti-Trust}
+0802063:dkan,2008-02-07,2018-12-27,FD,,Sibley v. Sprint Nextel Corporation,,dkan,,,{190 Contract Other}
+0801730:wdpa,2008-12-19,2014-06-13,FD,,REARDON v. CLOSETMAID CORPORATION,,wdpa,,,{Labor Other}
+0801360:cdcal,2008-02-27,2015-07-28,FD,,Daniel Forrand v. Federal Express Corporation,,cdcal,,,{890 Other Statutory Actions}
+0801008:wdwash,2008-06-23,2015-12-07,FD,,Reese v. Malone,,wdwash,,,{850 Securities/Commodities}
+0800990:wdpa,2008-07-14,2014-11-25,FD,,GLOVER v. FEDERAL DEPOSIT INSURANCE CORPORATION.,,wdpa,,,{Contract Other}
+0800965:edcal,2008-05-06,2018-05-07,FD,,"Kress v. PriceWaterhouse Coopers, LLP",,edcal,,,{790 Labor Other}
+0800810:cdcal,2008-02-06,2018-01-26,FD,,Stephen Stetson v. West Publishing Corporation,,cdcal,,,{410 Anti-Trust}
+0503923:edny,2005-08-16,2019-06-12,FD,,"In re Symbol Technologies, Inc. Securities Litigation",,edny,,,{850 Securities/Commodities}
+0502724:edny,2005-06-06,2011-11-23,FD,,"Cassese v. Washington Mutual, Inc",,edny,,,{Consumer Credit}
+0500070:sdohio,2005-01-21,2019-08-22,FD,,Amos v. PPG Industries Inc,,sdohio,,,{Labor E.R.I.S.A.}
+0408592:cdcal,2004-10-15,2015-05-22,FD,,Roberto Alaniz v. Los Angeles City of,,cdcal,,,{710 Labor Fair Standards}
+0405898:edpa,2004-12-17,2013-06-27,FD,,"SHEET METAL WORKERS LOCAL 441 HEALTH & WELFARE PLAN v. GLAXOSMITHKLINE, PLC",,edpa,,,{410 Other Statutes Anti-Trust}
+0401498:cdcal,2004-03-05,2014-04-15,FD,,Lynne Wang v. Chinese Daily News Inc,,cdcal,,,{710 Labor Fair Standards}
+0305336:edpa,2003-09-23,2015-06-24,FD,,"GROSSMAN v. MERRILL LYNCH & CO., INC.",,edpa,,,{850 Other Statutes Securities/Commodities}
+0702513:dariz,2007-12-12,2013-10-02,FD,,Melendres v. Penzone,,dariz,,,{440 Civil Rights Other}
+0800457:dariz,2008-03-07,2019-08-02,FD,,"Spinedex Physical Therapy USA Inc v. United Healthcare of Arizona, Inc.",,dariz,,,{791 Labor E.R.I.S.A.}
+0800311:dme,2008-09-17,2013-02-01,FD,,CAMPBELL v. FIRST AMERICAN TITLE INSURANCE COMPANY,,dme,,,{Insurance}
+0702249:dnj,2007-05-11,2014-12-14,FD,,"DEWEY v. VOLKSWAGEN OF AMERICA, INC.",,dnj,,,{370 Other Fraud}
+0800183:edtex,2008-04-29,2018-05-16,FD,,"Haynes v. Wells Fargo Bank, N.A.",,edtex,,,{890 Other Statutory Actions}
+0800151:cdcal,2008-01-10,2014-08-05,FD,,"Danielle Kingsbury v. U.S. Greenfiber, LLC",,cdcal,,,{245 Tort Product Liability}
+0800051:dnj,2008-01-04,2016-10-24,FD,,"HARPER v. LG ELECTRONICS USA, INC.",,dnj,,,{365 Personal Inj. Prod. Liability}
+0800020:sdga,2008-02-14,2015-06-17,FD,,"Smith v. Georgia Energy USA, LLC",,sdga,,,{Other Fraud}
+0708336:cdcal,2007-12-27,2019-04-23,FD,,"Gerardo Ortega v. J. B. Hunt Transport, Inc.",,cdcal,,,{790 Labor Other}
+0706782:cdcal,2007-10-18,2015-05-20,FD,,Cesar Mata v. City of Los Angeles,,cdcal,,,{710 Labor Fair Standards}
+0706465:cdcal,2007-10-04,2018-01-25,FD,,"John Murphy v. Directv, Inc.",,cdcal,,,{370 Other Fraud}
+0705442:cdcal,2007-08-20,2017-04-04,FD,,"Steve Harris v. Amgen, Inc.",,cdcal,,,{791 Labor E.R.I.S.A.}
+0705326:cdcal,2007-08-15,2011-02-28,FD,,"Cynthia Flores v. CVS Pharmacy, Inc",,cdcal,,,{790 Labor Other}
+0705325:dnj,2007-11-05,2010-10-14,FD,,SAMPANG v. AT&T MOBILITY LLC,,dnj,,,{190 Contract Other}
+0704492:edpa,2007-10-25,2016-02-03,FD,,"EMPLOYERS MUTUAL CASUALTY COMPANY v. CEPHALON, INC.",,edpa,,,{890 Other Statutes Other Statutory Actions}
+0704426:edpa,2007-10-22,2011-06-28,FD,,"ALEXANDER v. WASHINGTON MUTUAL, INC.",,edpa,,,{890 Other Statutes Other Statutory Actions}
+0704296:edpa,2007-10-12,2014-09-19,FD,,MOORE v. GMAC LLC,,edpa,,,{890 Other Statutes Other Statutory Actions}
+0703796:cdcal,2007-06-12,2016-10-14,FD,,Denise P Edwards v. The First American Corporation,,cdcal,,,{890 Other Statutory Actions}
+0703359:edny,2007-08-14,2013-06-27,FD,,Baughman v. Pall Corp,,edny,,,{850 Securities/Commodities}
+0702536:cdcal,2007-04-17,2016-10-25,FD,,Connecticut Retirement v. Amgen Inc,,cdcal,,,{850 Securities/Commodities}
+0900019:dnm,2009-01-09,2016-04-01,FD,,"Maestas v. Day & Zimmerman, LLC",,dnm,,,{710 Labor Fair Standards}
+0900060:wdmich,2009-01-22,2014-03-26,FD,,Ouwinga v. John Hancock Variable Life Insurance Company,,wdmich,,,{470 Racketeer/Corrupt Organization}
+0900094:edny,2009-01-09,2013-06-28,FD,,"Charles v. Nationwide Mutual Insurance Company, Inc.",,edny,,,{710 Labor Fair Standards}
+0900140:wdpa,2009-06-12,2016-10-13,FD,,COTTILLION v. UNITED REFINING COMPANY,,wdpa,,,{791 Labor E.R.I.S.A.}
+0900190:dvt,2009-08-17,2014-09-03,FD,,Walker v. Teachers Insurance and Annuity Association of America - College Retirement and Equities Fund,,dvt,,,{890 Other Statutory Actions}
+0900300:dnm,2009-03-27,2013-02-25,FD,,"Genesee County Employees Retirement System v. Thornburg Mortgage, Inc.",,dnm,,,{190 Contract Other}
+0900383:dri,2009-08-21,2014-02-10,FD,,"In re Textron, Inc. ERISA Litigation",,dri,,,{160 Stockholders Suits}
+0900430:edcal,2009-03-06,2010-03-10,FD,,"Carlin v. DairyAmerica, Inc.",,edcal,,,{Personal Property Other}
+0900430:edcal,2009-03-06,2020-12-09,FD,,"Carlin v. DairyAmerica, Inc.",,edcal,,,{380 Personal Property Other}
+0900457:dnm,2009-05-08,2014-12-18,FD,,Lowery v. City of Albuquerque,,dnm,,,{440 Civil Rights Other}
+0900491:ndill,2009-01-26,2013-10-02,FD,,Rowe v. Bankers Life and Casualty Company,,ndill,,,{110 Contract Insurance}
+0900554:dri,2009-11-18,2016-02-23,FD,,Medoff v. CVS Caremark Corporation,,dri,,,{160 Stockholders Suits}
+0900777:sdny,2009-01-27,2013-05-09,FD,,IN RE Beacon Associates Litigation,,sdny,,,{850 Securities/Commodities}
+0900794:sdohio,2009-10-29,2013-08-27,FD,,Schumacher v. AK Steel Corporation Retirement Accumulation Pension Plan,,sdohio,,,{791 Labor E.R.I.S.A.}
+0900815:sdohio,2009-11-04,2014-01-06,FD,,Loreto v. Procter and Gamble Company,,sdohio,,,{440 Civil Rights Other}
+0900938:dcolo,2009-04-23,2013-06-25,FD,,"Tennille v. Western Union Company, The",,dcolo,,,{370 Other Fraud}
+0900991:edny,2009-03-10,2013-08-19,FD,,"Hines v. Overstock.com, Inc.",,edny,,,{190 Contract Other}
+0901049:sdny,2009-02-05,2015-08-05,FD,,Freidus v. ING Group N.V.,,sdny,,,{850 Securities/Commodities}
+0901110:sdny,2009-02-06,2012-11-08,FD,,"Public Employees Retirement System of Mississippi v. Goldman Sachs Group, Inc.",,sdny,,,{850 Securities/Commodities}
+0901262:ndohio,2009-06-03,2020-01-02,FD,,Glazer v. Chase Home Finance LLC,,ndohio,,,{Consumer Credit}
+0901714:sdny,2009-02-24,2020-06-11,FD,,In Re Deutsche Bank AG Securities Litigation,,sdny,,,{850 Securities/Commodities}
+0901811:ndga,2009-07-06,2014-11-18,FD,,City of Pompano Beach General Employees Retirement System v. Synovus Financial Corp.,,ndga,,,{850 Securities/Commodities}
+0901934:ndill,2009-03-30,2015-08-10,FD,,"Diebold v. Northern Trust Investments, N.A.",,ndill,,,{791 Labor E.R.I.S.A.}
+0901951:sdny,2009-03-03,2013-09-06,FD,,IN RE General Electric Co. Sec. Litig.,,sdny,,,{850 Securities/Commodities}
+0901989:sdny,2009-03-04,2017-09-14,FD,,In re Barclays Bank Plc Securities Litigation,,sdny,,,{850 Securities/Commodities}
+0902137:sdny,2009-03-09,2014-12-19,FD,,In re Morgan Stanley Mortgage Pass-Through Certificates Litigation,,sdny,,,{850 Securities/Commodities}
+0902293:dcolo,2009-09-25,2021-09-28,FD,,"A-W Land Co., LLC v. Anadarko E & P Company LP",,dcolo,,,{290 Real Property Other}
+0902566:sdny,2009-03-19,2013-09-06,FD,,Pare v. Immelt,,sdny,,,{850 Securities/Commodities}
+0902582:sdny,2009-03-20,2013-09-06,FD,,Klein v. General Electric Company,,sdny,,,{850 Securities/Commodities}
+0902757:dcolo,2009-11-24,2013-08-20,FD,,Colorado Cross-Disability Coalition v. Abercrombie & Fitch Co.,,dcolo,,,{446 Civil Rights Americans with Disabilities - Other}
+0902941:edny,2009-07-09,2015-02-11,FD,,"Bodon v. Dominos Pizza, LLC",,edny,,,{710 Labor Fair Standards}
+0903043:sdny,2009-03-30,2015-09-22,FD,,"Hart v. RCI Hospitality Holdings, Inc.",,sdny,,,{710 Labor Fair Standards}
+0903608:sdny,2009-04-08,2009-12-09,FD,,Pellegrini v. Barclays Bank PLC,,sdny,,,{850 Securities/Commodities}
+0903645:edny,2009-08-21,2013-04-05,FD,,Dollar Phone Corp. v. Dun & Bradstreet Corporation,,edny,,,{370 Fraud or Truth-In-Lending}
+0903787:sdny,2009-04-15,2013-09-06,FD,,City of Brockton Contributory Retirement System v. General Electric Co.,,sdny,,,{850 Securities/Commodities}
+0903907:sdny,2009-04-17,2013-05-09,FD,,"In re J.P. Jeanneret Associates, Inc.",,sdny,,,{850 Securities/Commodities}
+0904031:edny,2009-09-18,2017-01-06,FD,,"Pikos v. Liberty Maintenance, Inc.",,edny,,,{720 Labor Labor/Mgt. Relations}
+0904103:sdny,2009-04-27,2017-10-04,FD,,Espinosa v. Shah,,sdny,,,{Civil Rights Other}
+0904130:sdny,2009-04-27,2013-09-06,FD,,Gupta v. Immelt,,sdny,,,{850 Securities/Commodities}
+0904152:sdny,2009-04-28,2013-09-06,FD,,Watson v. General Electric Company,,sdny,,,{850 Securities/Commodities}
+0904414:sdny,2009-05-07,2014-12-19,FD,,West Virginia Investment Management Board v. Morgan Stanley Capital I Inc.,,sdny,,,{850 Securities/Commodities}
+0904468:ndill,2009-07-24,2015-03-06,FD,,"Northside Chiropractic, Inc. v. Yellowbook, Inc.",,ndill,,,{190 Contract Other}
+0905475:edny,2009-12-15,2020-09-21,FD,,Michalow v. East Coast Restoration & Consulting Corp.,,edny,,,{710 Labor Fair Standards}
+0905708:edny,2009-12-30,2016-06-10,FD,,"Karic v. The Major Automotive Companies, Inc.",,edny,,,{710 Labor Fair Standards}
+0905904:sdny,2009-06-26,2013-12-20,FD,,Silverstein v. AllianceBernstein L.P.,,sdny,,,{710 Labor Fair Standards}
+0905933:sdny,2009-06-29,2015-02-23,FD,,Wyoming State Treasurer v. Olinski,,sdny,,,{850 Securities/Commodities}
+0906220:sdny,2009-07-10,2012-11-26,FD,,"IN RE Tronox, INC. Securities Litigation",,sdny,,,{850 Securities/Commodities}
+0906437:ndill,2009-10-13,2015-02-03,FD,,Jones v. National Council of Young Mens Christian Associations of the United States of America,,ndill,,,{442 Civil Rights Jobs}
+0906548:sdny,2009-07-23,2012-09-14,FD,,"Sewell v. Bovis Lend Lease, Inc.",,sdny,,,{710 Labor Fair Standards}
+0907203:ndill,2009-11-17,2017-01-13,FD,,"The Board of Trustees of the City of Pontiac General Employees Retirement System v. Northern Trust Investments, N.A.",,ndill,,,{190 Contract Other}
+0907299:ndill,2009-11-20,2015-01-13,FD,,"Paldo Sign and Display Company v. Wagener Equities, Inc.",,ndill,,,{890 Other Statutory Actions}
+0908011:sdny,2009-09-18,2013-05-10,FD,,In Re Direxion Shares ETF Trust,,sdny,,,{850 Securities/Commodities}
+0908486:sdny,2009-10-06,2016-05-24,FD,,Sykes v. Mel S. Harris and Associates LLC,,sdny,,,{890 Other Statutory Actions}
+0908633:sdny,2009-10-09,2013-03-14,FD,,"City of Roseville Employees Retirement System v. EnergySolutions, Inc.",,sdny,,,{850 Securities/Commodities}
+0909177:sdny,2009-11-04,2015-02-19,FD,,"Meredith Corporation v. Sesac, LLC",,sdny,,,{410 Anti-Trust}
+0909333:sdny,2009-11-09,2013-11-20,FD,,"The Board of Trustees of the Operating Engineers Pension Trust v. JPMorgan Chase Bank, National Association",,sdny,,,{791 Labor E.R.I.S.A.}
+0911410:dmass,2009-08-25,2013-08-19,FD,,Vander Luitgaren v. Sun Life Insurance Company of Canada,,dmass,,,{791 Labor E.R.I.S.A.}
+0911537:dmass,2009-09-15,2013-03-15,FD,,Otte v. Life Insurance Company of North America,,dmass,,,{791 Labor E.R.I.S.A.}
+0912146:dmass,2009-12-18,2015-01-08,FD,,Hill v. State Street Corporation,,dmass,,,{850 Securities/Commodities}
+1000015:fedcl,2010-01-11,2017-04-27,FS,,GREENWOOD v. United States,,fedcl,,,{Taking - Rails to Trails}
+1000037:wdva,2010-06-15,2019-07-26,FD,,Adair v. EQT Corporation,,wdva,,,{290 Real Property Other}
+1000041:wdva,2010-06-28,2019-07-26,FD,,Huffman v. EQT Corporation,,wdva,,,{290 Real Property Other}
+1000059:wdva,2010-09-23,2018-08-24,FD,,"Hale v. CNX Gas Company, LLC",,wdva,,,{290 Real Property Other}
+1000065:wdva,2010-11-09,2018-03-06,FD,,Addison v. CNX Gas Company LLC,,wdva,,,{290 Real Property Other}
+1000191:ndill,2010-01-12,2014-08-21,FD,,"Bergman v. Kindred Healthcare, Inc.",,ndill,,,{710 Labor Fair Standards}
+1000253:ndfla,2010-12-23,2017-12-08,FD,,LEE-BOLTON v. KOPPERS INC,,ndfla,,,{240 Torts to Land}
+1000253:wdmich,2010-03-15,2015-07-30,FD,,"Van Sweden Jewelers, Inc. v. 101 VT, Inc.",,wdmich,,,{890 Other Statutory Actions}
+1000260:ddel,2010-03-31,2018-02-01,FD,,Wallach v. Eaton Corporation,,ddel,,,{410 Anti-Trust}
+1000318:dmaryland,2010-02-09,2014-08-29,FD,,"Haley Paint Company v. Kronos Worldwide, Inc.",,dmaryland,,,{410 Anti-Trust}
+1000325:ddel,2010-04-21,2018-03-01,FD,,Dungee v. Davison Design & Development Inc.,,ddel,,,{890 Other Statutory Actions}
+1000359:dnj,2010-01-21,2014-06-26,FD,,DOHERTY v. THE HERTZ CORPORATION,,dnj,,,{190 Contract Other}
+1000378:ddel,2010-05-06,2014-06-26,FD,,In Re Heckmann Corporation Securities Litigation,,ddel,,,{850 Securities/Commodities}
+1000397:ndill,2010-01-20,2013-12-18,FD,,Demarco v. Northwestern Memorial Healthcare,,ndill,,,{710 Labor Fair Standards}
+1000407:dri,2010-10-01,2013-12-12,FD,,"Cappalli v. BJs Wholesale Club, Inc.",,dri,,,{190 Contract Other}
+1000460:dnj,2010-01-26,2014-02-20,FD,,"HAYES v. WAL-MART STORES, INC.",,dnj,,,{190 Contract Other}
+1000484:dmaryland,2010-03-01,2013-07-26,FD,,"Stone v. Wayric Services, Inc.",,dmaryland,,,{480 Consumer Credit}
+1000583:ndga,2010-03-01,2015-02-18,FD,,Belton v. State of Georgia,,ndga,,,{446 Civil Rights Americans with Disabilities - Other}
+1000699:sdny,2010-01-28,2015-02-04,FD,,Davis v. The City of New York,,sdny,,,{Civil Rights Accommodations}
+1000728:ddel,2010-08-26,2016-06-02,FD,,Skeway v. China Natural Gas Inc,,ddel,,,{850 Securities/Commodities}
+1000752:wdmich,2010-07-30,2015-05-05,FD,,"Volstromer v. Enbridge, Inc.",,wdmich,,,{240 Torts to Land}
+1000755:edny,2010-02-19,2013-03-22,FD,,"Lujan v. Cabana Management, Inc.",,edny,,,{710 Labor Fair Standards}
+1000793:wdny,2010-10-04,2013-06-07,FD,,Forti v. Geidel,,wdny,,,{850 Securities/Commodities}
+1000864:edny,2010-02-25,2015-09-28,FD,,"Waterford Township Police & Fire Retirement System v. Smithtown Bancorp, Inc.",,edny,,,"{450 Commerce ICC Rates, Etc.}"
+1000872:dnm,2010-09-20,2015-02-23,FD,,Abrams v. City of Albuquerque,,dnm,,,{710 Labor Fair Standards}
+1000876:edny,2010-02-25,2014-01-07,FD,,Morangelli v. Chemed Corporation,,edny,,,{710 Labor Fair Standards}
+1000918:mdnc,2010-11-29,2014-11-07,FD,,"MAXWELL v. REMINGTON ARMS COMPANY, INC.",,mdnc,,,{195 Contract Product Liability}
+1000989:ndill,2010-02-12,2013-12-16,FD,,"Young v. City of Chicago, Department of Transportation",,ndill,,,{Civil Rights Jobs}
+1000990:ddel,2010-11-18,2018-11-19,FD,,In Re Wilmington Trust Securities Litigation,,ddel,,,{850 Securities/Commodities}
+1001114:ddel,2010-12-20,2014-11-25,FD,,In Re Wilmington Trust Corp. ERISA Litigation,,ddel,,,{791 Labor E.R.I.S.A.}
+1001145:sdny,2010-02-11,2012-09-12,FD,,In Re Penthouse Executive Club Compensation Litigation,,sdny,,,{710 Labor Fair Standards}
+1001335:sdny,2010-02-18,2014-08-08,FD,,Lin v. Benihana National Corp.,,sdny,,,{710 Labor Fair Standards}
+1001504:dmaryland,2010-06-08,2010-11-19,FD,,"Epps v. JP Morgan Chase Bank, N.A./Chase Auto Finance",,dmaryland,,,{480 Consumer Credit}
+1001511:ddc,2010-09-07,2011-08-08,FD,,NB v. DISTRICT OF COLUMBIA,,ddc,,,{Civil Rights Other}
+1001564:ddc,2010-09-16,2017-03-31,FD,,"DAVIS v. DISTRICT OF COLUMBIA CHILD AND FAMILY SERVICES AGENCY,et al",,ddc,,,{442 Civil Rights Jobs}
+1001658:ndill,2010-03-15,2012-12-06,FD,,Wendorf v. Landers,,ndill,,,{480 Consumer Credit}
+1001750:ddc,2010-10-15,2015-10-13,FD,,BURTON v. DISTRICT OF COLUMBIA,,ddc,,,{442 Civil Rights Jobs}
+1001780:ddc,2010-10-21,2015-10-14,FD,,In re APA ASSESSMENT FEE LITIGATION,,ddc,,,{370 Other Fraud}
+1001899:ndill,2010-03-25,2016-04-27,FD,,Kurgan v. Chiro One Wellness Centers LLC,,ndill,,,{710 Labor Fair Standards}
+1001917:edny,2010-04-28,2015-07-20,FD,,Bensinger v. Denbury Resources Inc.,,edny,,,{850 Securities/Commodities}
+1002062:edcal,2010-11-05,2013-11-22,FD,,"Owens v. Kraft Foods Global, Inc",,edcal,,,{790 Labor Other}
+1000935:edny,2010-03-03,2013-05-15,FD,,Yahraes v. Restaurant Associates Events Corp.,,edny,,,{710 Labor Fair Standards}
+0000953:ddc,2000-05-03,2017-05-03,FD,,MOORE v. CHERTOFF,,ddc,,,{442 Civil Rights Jobs}
+0002502:ddc,2000-10-19,2012-12-18,FD,,LOVE v. VENEMAN,,ddc,,,{890 Other Statutory Actions}
+0100400:ddc,2001-02-22,2015-07-22,FD,,ARTIS v. GREENSPAN,,ddc,,,{442 Civil Rights Jobs}
+0103014:sdny,2001-04-10,2013-11-13,FD,,"Gould v. Winstar, Inc.",,sdny,,,{850 Securities/Commodities}
+0105694:sdny,2001-06-22,2015-05-29,FD,,Mazzei v. The Money Store,,sdny,,,{Other Statutory Actions}
+0200618:ddc,2002-04-01,2013-03-28,FD,,HARRIS v. KOENIG,,ddc,,,{791 Labor E.R.I.S.A.}
+0201263:sdny,2002-02-15,2013-07-16,FD,,In Re Actrade Financial v.,,sdny,,,{850 Securities/Commodities}
+0202917:dnj,2002-06-19,2017-06-05,FD,,BRADY v. AIR LINE PILOTS ASSOCIATION,,dnj,,,{190 Contract Other}
+0205893:ndill,2002-08-19,2016-11-10,FD,,Jaffe v. Household Intl Inc,,ndill,,,{850 Securities/Commodities}
+0301062:ddc,2003-05-14,2013-07-31,FD,,HUBBARD v. POTTER,,ddc,,,{442 Civil Rights Jobs}
+0305194:sdny,2003-07-15,2011-02-23,FD,,Fogarazzo v. Lehman Brothers,,sdny,,,{850 Securities/Commodities}
+0403316:sdny,2004-04-30,2011-06-14,FD,,Torres v. Gristedes Operating Corp.,,sdny,,,{710 Labor Fair Standards}
+0408141:sdny,2004-10-15,2017-08-15,FD,,"IN RE American International Group, Inc Securities Litigation",,sdny,,,{850 Securities/Commodities}
+0409194:sdny,2004-11-19,2010-11-30,FD,,Velez v. Novartis Corporation,,sdny,,,{442 Civil Rights Jobs}
+0501094:ndohio,2005-04-29,2013-12-12,FD,,"Johnson v. Midland Credit Management, Inc.",,ndohio,,,{Consumer Credit}
+0501325:sdind,2005-09-06,2014-03-21,FD,,PIERCE v. VISTEON CORPORATION,,sdind,,,{791 Labor E.R.I.S.A.}
+0501437:ddc,2005-07-21,2013-03-31,FD,,DL v. DISTRICT OF COLUMBIA,,ddc,,,{440 Civil Rights Other}
+0504331:ndill,2005-07-28,2011-06-15,FD,,Ligas v. Eagleson,,ndill,,,{440 Civil Rights Other}
+0504720:sdny,2005-05-16,2016-07-19,FD,,"San Francisco Employees Retirement System v. American International Group, Inc.",,sdny,,,{850 Securities/Commodities}
+0506583:ndill,2005-11-18,2013-12-06,FD,,"McReynolds v. Merrill Lynch & Co., Inc.",,ndill,,,{442 Civil Rights Jobs}
+0506920:sdny,2005-08-03,2015-06-22,FD,,H. v. Eggleston,,sdny,,,{446 Civil Rights Americans with Disabilities - Other}
+0507583:sdny,2005-08-26,2016-08-16,FD,,Chilton v. Smith Barney Fund Management LLC,,sdny,,,{850 Securities/Commodities}
+0508136:sdny,2005-09-20,2013-11-27,FD,,The Authors Guild v. Google Inc.,,sdny,,,{820 Copyright}
+0600071:ddel,2006-02-02,2013-08-22,FD,,Merado v. AstraZeneca Pharmaceuticals LP,,ddel,,,{410 Anti-Trust}
+0600096:ndfla,2006-05-09,2013-06-25,FD,,HILL v. THE HOOVER COMPANY,,ndfla,,,{890 Other Statutory Actions}
+0601842:edny,2006-04-20,2014-09-17,FD,,"Shady Grove Orthopedic Associates, P.A. v. Allstate Insurance Company",,edny,,,{110 Insurance}
+0602280:sdny,2006-03-23,2018-01-22,FD,,Laurent v. PricewaterhouseCoopers LLP,,sdny,,,{Labor E.R.I.S.A.}
+0602805:dsc,2006-10-09,2014-01-15,FD,,Savani v. Washington Safety Management Solutions LLC,,dsc,,,{Labor E.R.I.S.A.}
+0603530:sdny,2006-05-10,2015-06-16,FD,,Cunningham v. Electronic Data Systmes Corp.,,sdny,,,{710 Labor Fair Standards}
+0604991:sdny,2006-06-28,2018-03-27,FD,,Nnebe v. Daus,,sdny,,,{Civil Rights Other}
+0609960:sdny,2006-10-19,2013-06-10,FD,,Spagnola v. Great Northern Insurance Company,,sdny,,,{110 Insurance}
+0615297:sdny,2006-12-19,2017-04-27,FD,,Brecher v. Republic of Argentina,,sdny,,,{190 Contract Other}
+0700241:dri,2007-06-28,2019-03-27,FD,,M. v. Chafee,,dri,,,{440 Civil Rights Other}
+0700312:sdny,2007-01-12,2015-07-28,FD,,"In Re Celestica Inc., Securities Litigation",,sdny,,,{850 Securities/Commodities}
+0701020:wdark,2007-03-08,2012-12-13,FD,,"Walls, etal v. Sagamore Insurance Company",,wdark,,,{Insurance}
+0701103:cdill,2007-04-27,2013-10-17,FD,,Niemeyer v. Williams,,cdill,,,{Civil Rights Other}
+0701206:ddc,2007-07-03,2016-04-12,FD,,JONES v. DISTRICT OF COLUMBIA,,ddc,,,{440 Civil Rights Other}
+0701264:ddc,2007-07-16,2013-02-26,FD,,"STEPHENS v. US AIRWAYS GROUP, INC.",,ddc,,,{791 Labor E.R.I.S.A.}
+0701314:edcal,2007-09-07,2016-04-11,FD,,Medlock v. Taco Bell Corp.,,edcal,,,{790 Labor Other}
+0701358:sdny,2007-02-23,2015-10-05,FD,,"Osberg v. Foot Locker, Inc.",,sdny,,,{791 Labor E.R.I.S.A.}
+0701757:ddc,2007-10-01,2017-09-28,FD,,"In Re HARMAN INTERNATIONAL INDUSTRIES, INC. SECURITIES LITIGATION",,ddc,,,{850 Securities/Commodities}
+0702252:sdny,2007-03-15,2013-09-09,FD,,"Patel v. Worldspace, Inc.",,sdny,,,{850 Securities/Commodities}
+0702503:dcolo,2007-11-30,2017-08-25,FD,,Stender v. Archstone-Smith Operating Trust,,dcolo,,,{160 Stockholders Suits}
+0703442:dnj,2007-07-25,2013-12-03,FD,,"KALOW & SPRINGUT, LLP v. COMMENCE CORPORATION",,dnj,,,{Other Statutory Actions}
+0703582:sdny,2007-05-04,2013-11-07,FD,,"The Football Association Premier League Limited v. Youtube, Inc.",,sdny,,,{820 Copyright}
+0706316:sdny,2007-07-11,2012-06-15,FD,,"Theodore and Marjorie Charron, Andres Mares-Muro, Kim Powell, Raymond Andrew Stahl-David, and all other similarly situated v. Pinnacle Group NY LLC and Joel Wiener",,sdny,,,{470 Racketeer/Corrupt Organization}
+0708375:sdny,2007-09-26,2013-08-26,FD,,Teamsters Local 282 Pension Trust Fund v. Moodys Corporation,,sdny,,,{850 Securities/Commodities}
+0708538:sdny,2007-10-02,2012-10-22,FD,,Freudenberg v. ETrade Financial Corporation,,sdny,,,{850 Securities/Commodities}
+0709227:sdny,2007-10-15,2020-03-02,FD,,Rodriguez v. Its Just Lunch International,,sdny,,,{Other Fraud}
+0709329:sdny,2007-10-18,2019-01-03,FD,,"Leber v. CitiGroup, Inc.",,sdny,,,{791 Labor E.R.I.S.A.}
+0709515:sdny,2007-10-24,2012-03-06,FD,,In re Colgate-Palmolive Co. ERISA Litigation,,sdny,,,{791 Labor E.R.I.S.A.}
+0710279:sdny,2007-11-13,2013-10-01,FD,,In re sanofi-aventis Securities Litigation,,sdny,,,{850 Securities/Commodities}
+0710531:sdny,2007-11-21,2014-02-20,FD,,"Munoz v. China Expert Technology, Inc.",,sdny,,,{890 Other Statutory Actions}
+0711285:sdny,2007-12-14,2013-03-28,FD,,In re Morgan Stanley ERISA Litigation,,sdny,,,{791 Labor E.R.I.S.A.}
+0711504:sdny,2007-12-21,2013-03-14,FD,,Chenensky v. New York Life Insurance Co.,,sdny,,,{710 Labor Fair Standards}
+0800021:sdny,2008-01-02,2013-10-01,FD,,Smith v. Sanofi-Aventis,,sdny,,,{850 Securities/Commodities}
+0800030:sdga,2008-03-05,2017-09-26,FD,,"Terrill v. Electrolux Home Products, Inc.",,sdga,,,{385 Prop. Damage Prod. Liability}
+0800046:sdohio,2008-01-16,2015-09-30,FD,,"Williams v. Duke Energy International, Inc",,sdohio,,,{410 Anti-Trust}
+0800102:ndind,2008-04-16,2016-01-04,FD,,Bickel v. Whitley County Sheriff,,ndind,,,{Civil Rights Other}
+0800193:sdny,2008-01-09,2014-09-02,FD,,Bernstein v. The Chubb Corporation,,sdny,,,{890 Other Statutory Actions}
+0800288:wdpa,2008-10-17,2008-04-02,FD,,FREDERICK v. RANGE RESOURCES,,wdpa,,,{Contract Other}
+0800378:wdny,2008-05-22,2015-08-03,FD,,Gordon v. Kaleida Health,,wdny,,,{710 Labor Fair Standards}
+0800380:wdny,2008-05-23,2015-08-14,FD,,"Hinterberger v. Catholic Health System, Inc.",,wdny,,,{710 Labor Fair Standards}
+0800488:edwis,2008-06-04,2019-01-25,FD,,DeKeyser v. ThyssenKrupp Waupaca Inc,,edwis,,,{710 Labor Fair Standards}
+0800567:sdny,2008-01-23,2017-11-22,FD,,Rothenberg v. Matthew Daus,,sdny,,,{440 Civil Rights Other}
+0800920:fedcl,2008-12-30,2017-03-21,FS,,"GENEVA ROCK PRODUCTS, INC. v. United States",,fedcl,,,{Taking - Rails to Trails}
+0801034:sdny,2008-01-31,,FD,,Floyd v. The City of New York,,sdny,,,{440 Civil Rights Other}
+0801536:sdny,2008-02-13,2013-08-26,FD,,Nach v. Huber,,sdny,,,{850 Securities/Commodities}
+0801747:ddc,2008-10-15,2019-02-19,FD,,BROOKS v. HOLDER,,ddc,,,{442 Civil Rights Jobs}
+0802014:ndill,2008-04-09,2018-07-02,FD,,Holtzman v. Turza,,ndill,,,{890 Other Statutory Actions}
+0802214:dnj,2008-05-07,2013-08-28,FD,,"BOYKO v. AMERICAN INTERNATIONAL GROUP, INC.",,dnj,,,{480 Consumer Credit}
+0803316:sdny,2008-04-03,2012-03-06,FD,,Caufield v. Colgate-Palmolive Company Employees Retirement Income Plan,,sdny,,,{791 Labor E.R.I.S.A.}
+0803317:sdny,2008-04-03,2012-03-06,FD,,Abelman v. Colgate-Palmolive Company,,sdny,,,{791 Labor E.R.I.S.A.}
+0803384:ndga,2008-10-31,2018-06-28,FD,,"In Re SunTrust Banks, Inc. ERISA Litigation",,ndga,,,{791 Labor E.R.I.S.A.}
+0803601:sdny,2008-04-15,2013-12-18,FD,,"Landmen Partners, Inc. v. The Blackstone Group, L.P.",,sdny,,,{850 Securities/Commodities}
+0803653:sdny,2008-04-16,2011-11-14,FD,,Hayes v. Harmony Gold Mining Company Limited,,sdny,,,{850 Securities/Commodities}
+0804874:edny,2008-12-03,2017-09-30,FD,,Morris v. Alle Processing Corp.,,edny,,,{710 Labor Fair Standards}
+0805093:sdny,2008-06-03,2014-11-04,FD,,New Jersey Carpenters Vacation Fund v. HarborView Mortgage Loan Trust 2006-4,,sdny,,,{850 Securities/Commodities}
+0805214:ndill,2008-09-12,2017-02-16,FD,,Standard Iron Works v. Arcelormittal,,ndill,,,{410 Anti-Trust}
+0805310:sdny,2008-06-10,2019-03-08,FD,,"New Jersey Carpenters Health Fund v. The Royal Bank of Scotland Group, plc",,sdny,,,{Other Statutory Actions}
+0805336:sdny,2008-06-11,2014-10-08,FD,,Vaccariello v. XM Satellite Radio Inc.,,sdny,,,{480 Consumer Credit}
+0805468:ndill,2008-09-24,2017-08-17,FD,,Supreme Auto Transport LLC v. Arcelor Mittal,,ndill,,,{410 Anti-Trust}
+0805653:sdny,2008-06-23,2016-05-10,FD,,New Jersey Carpenters Health Fund v. Home Equity Mortgage Trust 2006-5,,sdny,,,{850 Securities/Commodities}
+0806842:sdny,2008-07-30,2015-06-22,FD,,IN RE OPTIVER COMMODITIES LITIGATION,,sdny,,,{Securities/Commodities}
+0806857:sdny,2008-07-31,2012-05-04,FD,,The Pennsylvania Avenue Funds v. INYX Inc.,,sdny,,,{850 Securities/Commodities}
+0808093:sdny,2008-09-18,2015-05-27,FD,,In Re BEAR STEARNS MORTGAGE PASS-THROUGH CERTIFICATES LITIGATION,,sdny,,,{850 Securities/Commodities}
+0808781:sdny,2008-10-14,2015-07-31,FD,,New Jersey Carpenters Health Fund v. RALI Series 2006-QO1 Trust,,sdny,,,{850 Securities/Commodities}
+0809528:sdny,2008-11-05,2011-08-19,FD,,Westchester Putnam Heavy & Highway Laborers Local 60 Benefit Funds v. Sadia S.A.,,sdny,,,{850 Securities/Commodities}
+0810446:dmass,2008-03-18,2013-12-19,FD,,"Plumbers Union Local No. 12 Pension Fund, Individually and On Behalf of All Others Similarly Situated v. Nomura Asset Acceptance Corporation",,dmass,,,{850 Securities/Commodities}
+0810783:sdny,2008-12-11,2016-05-02,FD,,Neca-Ibew Health & Welfare Fund v. Goldman Sachs & Co.,,sdny,,,{Securities/Commodities}
+0822572:sdfla,2008-09-16,2010-03-30,FD,,Waterford Township General Employees Retirement System v. Bankunited Financial Corporation,,sdfla,,,{850 Securities/Commodities}
+0823317:sdfla,2008-11-26,2012-11-21,FD,,City Pension Fund for Firefighters and Police Officers in the City of Miami Beach v. Aracruz Celulose S.A.,,sdfla,,,{850 Securities/Commodities}
+0800511:ddc,2008-08-07,2011-10-27,FD,,In re BLACK FARMERS DISCRIMINATION LITIGATION,,ddc,,,{Civil Rights Other}
+0900018:ndny,2009-01-07,2014-11-21,FD,,"Seekamp v. Its Huge, Inc.",,ndny,,,{371 Truth in Lending}
+0900516:dminnesota,2009-03-04,2014-03-03,FD,,"Luiken v. Dominos Pizza, Inc.",,dminnesota,,,{710 Labor Fair Standards}
+0901775:dminnesota,2009-07-10,2020-09-04,FD,,Jensen v. Minnesota Department of Human Services,,dminnesota,,,{Civil Rights Other}
